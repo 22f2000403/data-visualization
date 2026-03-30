@@ -1,0 +1,7 @@
+{
+  "prompt": "A human lung shaped like a tree, half green and full of life, half burnt and turning into black smoke with factories and pollution. Cinematic lighting, emotional, hyper realistic, no text, no labels, no charts, powerful visual metaphor, dark contrast, 4k",
+  "model": "DALL·E 3",
+  "dataset_name": "Air Pollution Deaths",
+  "dataset_url": "https://ourworldindata.org/air-pollution",
+  "insight": "Air pollution is turning life-giving lungs into sources of death and destruction."
+}
